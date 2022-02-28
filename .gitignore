@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Own
+data/
+generated/
+images/
+results_opt/
+training_checkpoints/
