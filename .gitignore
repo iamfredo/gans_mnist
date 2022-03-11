@@ -132,5 +132,6 @@ dmypy.json
 data/
 generated/
 images/
+images_50epochs/
 results_opt/
 training_checkpoints/
