@@ -135,3 +135,4 @@ images/
 images_50epochs/
 results_opt/
 training_checkpoints/
+.DS_Store
